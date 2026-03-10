@@ -8,44 +8,22 @@ Um aplicativo web simples para gerenciar suas notas pessoais, com armazenamento 
 
 ## 📋 Descrição
 
-Este projeto é um gerenciador de notas básico que permite aos usuários adicionar, visualizar e remover notas. As notas são armazenadas localmente no navegador usando o Local Storage, garantindo que seus dados persistam entre sessões. Cada nota deve ter um título único.
-
-## 🚀 Como acessar
-
-Para acessar o projeto:
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/gerenciador-notas.git
-   ```
-
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd gerenciador-notas
-   ```
-
-3. Abra o arquivo `index.html` em seu navegador web.
-
-## 🧪 Como testar
-
-1. Abra o `index.html` no navegador.
-2. Digite um título único para a nota no campo de entrada.
-3. Clique no botão "Adicionar Nota".
-4. Verifique se a nota aparece na lista abaixo.
-5. Tente adicionar uma nota com título duplicado e veja o alerta.
-6. Clique no botão "Remover" ao lado de uma nota para excluí-la.
-7. Recarregue a página e confirme que as notas persistem no Local Storage.
-
-## 🛠️ Tecnologias Utilizadas
-
-- **HTML5**: Estrutura da página
-- **CSS3**: Estilização e layout responsivo
-- **JavaScript**: Lógica de interação e armazenamento local
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto é um gerenciador de notas básico que permite aos usuários adicionar, visualizar e remover notas. As notas são armazenadas localmente no navegador usando o **Local Storage**, garantindo que seus dados persistam entre sessões. Cada nota deve ter um título único.
 
 ---
 
-Feito com ❤️ para demonstrar conceitos básicos de web development.
+## 🔗 Demonstração Online
+
+Quer ver o projeto em ação agora mesmo? 
+
+### [🚀 TESTE CLICANDO AQUI!!!](https://bettograpiuna.github.io/provaStorage/)
+
+---
+
+## 🚀 Como acessar
+
+Para acessar o projeto localmente:
+
+1. **Clone este repositório:**
+   ```bash
+   git clone [https://github.com/seu-usuario/gerenciador-notas.git](https://github.com/seu-usuario/gerenciador-notas.git)
